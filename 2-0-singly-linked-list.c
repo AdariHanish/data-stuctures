@@ -21,7 +21,7 @@ void main()
         printf("3.Delete:\n");
         printf("4.Display:\n");
         printf("5.Exit:\n");
-        printf("Enter your choice:\n");
+        printf("Enter your choice:");
         scanf("%d",&c);
         switch(c)
         {
